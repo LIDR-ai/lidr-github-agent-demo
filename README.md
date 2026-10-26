@@ -10,7 +10,7 @@ Agente que interactúa con GitHub mediante function calling
 
 ## Descripción
 
-En esta primera demostración práctica verás cómo crear fácilmente un agente que, a través de function calling, se conecta con GitHub y expone ciertas funciones para ser usadas por otros agentes.
+En esta primera demostración práctica de nivel básico verás cómo crear fácilmente un agente que, a través de function calling, se conecta con GitHub y expone ciertas funciones para ser usadas por otros agentes.
 
 Fran Pastor, experto en IA y AI Architect Lead de Gurusup, te muestra en qué consiste el agente y cómo funcionan las funciones principales. No es tan relevante lo que hace, sino entender cómo lo hace, para poder extenderlo a cualquier otra herramienta que quieras integrar en tus flujos de trabajo con agentes.
 
